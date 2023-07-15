@@ -9,3 +9,5 @@ Consiste de uma animação mostrando uma pequena cidade Low Poly com trânsito.
 ![Cenário](cenarioFoto3.png)
 
 Ciência da Computação | Universidade Federal do Tocantins
+
+&copy; Mateus Rosario 2019
